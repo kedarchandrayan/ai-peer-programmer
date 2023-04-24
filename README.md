@@ -1,18 +1,20 @@
 # AI Peer Programmer
 
-Hello fellow devs. In here, I share my experiences with GitHub Copilot and ChatGPT as peer programmers.
-I used Visual Studio Code with "GitHub Copilot" extension installed.
+Hey devs! I'm here to share my experience working with GitHub Copilot and ChatGPT as peer programmers.
 
-## Test cases
+## GitHub Copilot
+Prerequisites: In Visual Studio Code, install the "GitHub Copilot" extension and login with GitHub.
+
+### Test cases
 Refer `TestCases.md` for details.
 
-## Code refactor
+### Code refactor
 Refer `CodeRefactor.md` for details.
 
-## Pattern completion
+### Pattern completion
 Refer `PatternCompletion.md` for details.
 
-## Pinch of salt
+### Pinch of salt
 Take suggestions from Copilot as first draft, which needs review, specially on following lines:
 - Order of complexity
 - Security vulnerability

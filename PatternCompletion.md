@@ -1,4 +1,4 @@
-# Patter completion
+# Pattern completion
 
 ## Experience 1: Seed data
 Suppose, we need an array of month names. We write the following line and wait for copilot to suggest.
