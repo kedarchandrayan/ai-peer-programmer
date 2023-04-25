@@ -6,3 +6,7 @@
 
 `lib/CodeRefactorExample2.js`: .then / .catch to async / await refactor.
 
+`lib/CodeRefactorExample4.js`: simplify conditionals
+
+
+
