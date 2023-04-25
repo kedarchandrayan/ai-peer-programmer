@@ -2,7 +2,7 @@
 Full final working test case code in file `test/lib/sanitize.js`.
 
 Let's see how GitHub Copilot proved helpful in writing test cases for a recursive sanitize parameters functionality 
-in `lib/Sanitize.js` file. We create an empty file `test/lib/sanitize.js` and follow following steps.
+in [lib/Sanitize.js](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/lib/Sanitize.js) file. We create an empty file [test/lib/sanitize.js](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/test/lib/sanitize.js) and follow following steps.
 
 ## Experience 1: Initial test cases
 We write the following line and wait for copilot to suggest.
@@ -84,7 +84,7 @@ describe('lib/sanitize.js', function() {
 );
 ```
 
-Note that the `lib/Sanitize.js` file was open in one of the tabs of vscode.
+Note that the [lib/Sanitize.js](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/lib/Sanitize.js) file was open in one of the tabs of vscode.
 
 Although the cases look good for a first draft, we had to make following changes in it.
 - require had wrong path. One `..` was extra.

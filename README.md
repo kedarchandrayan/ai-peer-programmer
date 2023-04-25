@@ -6,13 +6,13 @@ Hey devs! I'm here to share my experience working with GitHub Copilot and ChatGP
 Prerequisites: In Visual Studio Code, install the "GitHub Copilot" extension and login with GitHub.
 
 ### Code refactor
-Refer `CodeRefactor.md` for details.
+Refer [CodeRefactor.md](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/CodeRefactor.md) for details.
 
 ### Test cases
-Refer `TestCases.md` for details.
+Refer [TestCases.md](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/TestCases.md) for details.
 
 ### Pattern completion
-Refer `PatternCompletion.md` for details.
+Refer [PatternCompletion.md](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/PatternCompletion.md) for details.
 
 ### Pinch of salt
 Take suggestions from Copilot as first draft, which needs review, specially on following lines:
