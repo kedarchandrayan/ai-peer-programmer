@@ -5,11 +5,11 @@ Hey devs! I'm here to share my experience working with GitHub Copilot and ChatGP
 ## GitHub Copilot
 Prerequisites: In Visual Studio Code, install the "GitHub Copilot" extension and login with GitHub.
 
-### Test cases
-Refer `TestCases.md` for details.
-
 ### Code refactor
 Refer `CodeRefactor.md` for details.
+
+### Test cases
+Refer `TestCases.md` for details.
 
 ### Pattern completion
 Refer `PatternCompletion.md` for details.
