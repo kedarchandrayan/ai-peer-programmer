@@ -11,6 +11,9 @@ Refer [CodeRefactor.md](https://github.com/kedarchandrayan/ai-peer-programmer/bl
 ### Test cases
 Refer [TestCases.md](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/TestCases.md) for details.
 
+### Regex
+Refer [lib/Regex.js](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/lib/Regex.js) for details.
+
 ### Pattern completion
 Refer [PatternCompletion.md](https://github.com/kedarchandrayan/ai-peer-programmer/blob/main/PatternCompletion.md) for details.
 
